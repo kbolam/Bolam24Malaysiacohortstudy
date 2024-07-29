@@ -2,8 +2,8 @@
 #Date - started on 09/07/2024
 #Author - Katie Bolam 
 
-setwd("K:/vep/Malaysia Cohort/Staff folders/UNIQ/Raw Data")
-cohort<-read.csv("K:\\vep\\Malaysia Cohort\\Staff folders\\UNIQ\\Raw Data\\TMC_UNIQ24.csv", na.strings=c(""))
+setwd(")
+cohort<-read.csv("", na.strings=c(""))
 
 # Getting to know the data script: establishing the types of variables and basic summary stats. 
 
